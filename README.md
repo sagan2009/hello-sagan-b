@@ -1,3 +1,3 @@
-# hello-sagan-b
+hello-sagan-b
 a second repo named after my daughter
-I like baseball and science
+I like baseball, science, and mma
